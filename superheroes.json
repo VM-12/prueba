@@ -39,11 +39,24 @@
         "age": 23,
         "secretIdentity": "Victor Gonzalez",
         "powers": [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
+          "Es un cuervo-hermano",
+          "Aprende rapido",
+          "Persistente",
           "Teleportation",
-          "Interdimensional travel"
+          "Fuerza"
+        ]
+      },
+
+      {
+        "name": "SpiderMan",
+        "age": 17,
+        "secretIdentity": "Peter parker",
+        "powers": [
+          "Super Feurza",
+          "Sentido Aracnido",
+          "Trepar paredes",
+          "Lanzar telarañas",
+          "Es el Super herroe mas querido de marvel"
         ]
       }
     ]
